@@ -8,9 +8,7 @@ Hi there 👋
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ajink1310&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true)
-
 ![](https://streak-stats.demolab.com?user=ajink1310&theme=dark&hide_border=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajink1310&layout=compact&theme=dark&hide_border=false)
 
 
